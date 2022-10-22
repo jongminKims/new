@@ -1,3 +1,4 @@
 def j(j):
 	print(j)
-
+def k(k):
+	print(k)
